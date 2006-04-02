@@ -1,12 +1,18 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="250px">
+{|border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="250px"
 <caption>'''Mbanza ya Kinsasa'''</caption>
-<tr><td align="center" colspan=2>[[Image:Kinshasa-flag.png|150px|center]]<br><font size="-1">Dalapo ya Kinsasa</font></td></tr>
-<tr><td colspan="2" align="center" style="border-bottom:3px solid gray;">[[Image:DCongoKinshasa.png|150px|Karte ya Kongo na Kinsasa]]</td></tr>
-<tr><td>Mfumu ya mbanza</td><td>[[Kimbembe Mazunga]]</td></tr>
-<tr><td>Bandinga</td><td>[[kifalanse]], [[kituba]], [[lingala]]</td></tr>
-<tr><td>Supefisi</td><td>9&nbsp;965 [[km²]]</td></tr>
-<tr><td>Bantu</td><td>7&nbsp;500&nbsp;000</td></tr>
-</table>
+|-
+|align="center" colspan=2|[[Image:Kinshasa-flag.png|150px|center]]<br><font size="-1">Dalapo ya Kinsasa</font>
+|-
+|<td colspan="2" align="center" style="border-bottom:3px solid gray;"|[[Image:DCongoKinshasa.png|150px|Karte ya Kongo na Kinsasa]]
+|-
+|Mfumu ya mbanza||[[Kimbembe Mazunga]]
+|-
+|Bandinga||[[kifalanse]], [[dingala]], [[kituba]]
+|-
+|Supefisi||9&nbsp;965 [[km²]]
+|-
+|Bantu||7&nbsp;500&nbsp;000
+|}
 
 '''Kinsasa''' kele [[mbanza ya mfumu]] ya [[Repubilika ya Kongo Demokratiki]]. Yau kele mpe [[bizunga ya Repubilika ya Kongo Demokratiki|kizunga]].
 
