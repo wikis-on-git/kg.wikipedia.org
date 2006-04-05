@@ -1,26 +1,40 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px">
+{|border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px"
 <caption><font size="+1">'''Repubiliki ya Kongo Demokratiki'''</font></caption>
-<tr><td align="center" colspan="2">
+|-
+|align="center" colspan="2"|
 <table border="0" cellpadding="2" cellspacing="0">
 <tr><td align="center" width="140px">[[Image:Flag of the Democratic Republic of the Congo.svg|125px|Dalapo ya Repubilika ya Kongo Demokratiki]]</td><td align="center" width="140px">[[Image:Armoiries de la République démocratique du Congo - 2006.png|100px|Armuari ya Kongo Demokratiki]]</td></tr>
 <tr><td align="center" width="140px">([[Dalapo ya Repubilika ya Kongo Demokratiki|Dalapo]])</td><td align="center" width="140px">([[Bidimbu ya minsiku ya Repubilika ya Kongo Demokratiki|Bidimbu ya minsiku]])</td></tr>
 </table>
-</td></tr>
-<tr><td align="center" colspan=2><font size="-1">[[Dibanza]]: ''Nsambusulu, ndembama, kisalu''</font></td></tr>
-<tr><td colspan="2" align="center" style="border-bottom:3px solid gray;">[[Image:LocationDRCongo.png|250px|Kongo-Kinshasa na ntoto]]</td></tr>
-<tr><td>Ndinga ya kisalu</td><td>[[kifalanse]]</td></tr>
-<tr><td>Bandinga ya bualu</td><td>[[kiluba]], [[kisuahili]], [[kituba]], [[lingala]]</td></tr>
-<tr><td>[[Mbanza ya mfumu]]</td><td>[[Kinsasa]]</td></tr>
-<tr><td>[[Ntuadisi ya nsi]]</td><td>[[Joseph Kabila]]</td></tr>
-<tr><td>Superficie<br />&nbsp;- Yhteensä<br />&nbsp;- % mayi</td><td><br />2&nbsp;345&nbsp;410 [[km²]]<br />3,3 %</td></tr>
-<tr><td>Bantu<br />&nbsp;- Kimvuka (2003)<br />&nbsp;- Densite</td><td><br />56&nbsp;625&nbsp;478<br />24/km²</td></tr>
-<tr><td>[[Kilumbu]]<br />&nbsp;- Date</td><td>na [[Belji]]<br />30.6.[[1960]]</td></tr>
-<tr><td>[[Mbongo]]</td><td>[[falanga ya Kongo]]</td></tr>
-<tr><td>Fuseau horaire</td><td>[[Coordinated Universal Time|UTC]] +1 &ndash; UTC+2</td></tr>
-<tr><td>[[Muyimbu ya nsi]]</td><td>''[[Debout Congolais]]''</td></tr>
-<tr><td>[[Domeni internet]] </td><td>.cd</td></tr>
-<tr><td>Indicatif téléphonique</td><td>243</td></tr>
-</table>
+|-
+|align="center" colspan=2>|<font size="-1">[[Dibanza]]: ''Nsambusulu, ndembama, kisalu''</font>
+|-
+|colspan="2" align="center" style="border-bottom:3px solid gray;"|[[Image:LocationDRCongo.png|250px|Kongo-Kinshasa na ntoto]]
+|-
+|Ndinga ya kisalu||[[kifalanse]]
+|-
+|Bandinga ya bualu||[[kiluba]], [[kisuahili]], [[kituba]], [[lingala]]
+|-
+|[[Mbanza ya mfumu]]||[[Kinsasa]]
+|-
+|[[Ntuadisi ya nsi]]||[[Joseph Kabila]]
+|-
+|Supefisi<br />&nbsp;- Total<br />&nbsp;- % mayi||<br />2&nbsp;345&nbsp;410 [[km²]]<br />3,3 %
+|-
+|Bantu<br />&nbsp;- Kimvuka (2003)<br />&nbsp;- Densite||<br />56&nbsp;625&nbsp;478<br />24/km²
+|-
+|[[Kilumbu]]<br />&nbsp;- Date||na [[Belji]]<br />30.6.[[1960]]
+|-
+|[[Mbongo]]||[[falanga ya Kongo]]
+|-
+|Fuseau horaire||[[Coordinated Universal Time|UTC]] +1 &ndash; UTC+2
+|-
+|[[Muyimbu ya nsi]]||''[[Debout Congolais]]''
+|-
+|[[Domeni internet]]||.cd
+|-
+|Indicatif téléphonique||243
+|}
 
 [[Image:DRK.png|thumb|250px|Karte ya Kongo-Kinsasa]]
 
@@ -108,7 +122,7 @@ Nsi ya Kongo Demokratiki kele na bizunga makumi zole na tanu, na mbanza Kinshasa
 |-
 |16.||[[Tshopo]]||[[Kisangani]]||kisuahili
 |-
-|17.||[[Wele ya Ngele]]||[[Buta]]||lingala
+|17.||[[Wele ya Mitiu]]||[[Buta]]||lingala
 |-
 |18.||[[Nord-Ubangi]]||[[Gbadolite]]||lingala
 |-
