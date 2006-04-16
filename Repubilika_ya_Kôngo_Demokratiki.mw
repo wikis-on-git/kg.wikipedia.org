@@ -2,10 +2,14 @@
 <caption><font size="+1">'''Repubiliki ya Kongo Demokratiki'''</font></caption>
 |-
 |align="center" colspan="2"|
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[Image:Flag of the Democratic Republic of the Congo.svg|125px|Dalapo ya Repubilika ya Kongo Demokratiki]]</td><td align="center" width="140px">[[Image:Armoiries de la République démocratique du Congo - 2006.png|100px|Armuari ya Kongo Demokratiki]]</td></tr>
-<tr><td align="center" width="140px">([[Dalapo ya Repubilika ya Kongo Demokratiki|Dalapo]])</td><td align="center" width="140px">([[Bidimbu ya minsiku ya Repubilika ya Kongo Demokratiki|Bidimbu ya minsiku]])</td></tr>
-</table>
+{|border="0" cellpadding="2" cellspacing="0"
+|-
+|align="center" width="140px"|[[Image:Flag of the Democratic Republic of the Congo.svg|125px|Dalapo ya Repubilika ya Kongo Demokratiki]]
+|align="center" width="140px">|[[Image:Armoiries de la République démocratique du Congo - 2006.png|100px|Bidimbu ya Kongo Demokratiki]]
+|-
+|([[Dalapo ya Repubilika ya Kongo Demokratiki|Dalapo]])
+|([[Bidimbu ya minsiku ya Repubilika ya Kongo Demokratiki|Bidimbu ya minsiku]])
+|}
 |-
 |align="center" colspan=2>|<font size="-1">[[Dibanza]]: ''Nsambusulu, ndembama, kisalu''</font>
 |-
@@ -31,12 +35,14 @@
 |-
 |[[Muyimbu ya nsi]]||''[[Debout Congolais]]''
 |-
-|[[Domeni internet]]||.cd
+|[[Domeni neti]]||.cd
 |-
 |Indicatif téléphonique||243
 |}
 
 [[Image:DRK.png|thumb|250px|Karte ya Kongo-Kinsasa]]
+
+'''Repubilika ya Kongo Demokratiki''' go '''Kongo-Kinsasa''' kele leta na [[Afrika ya Kati]]. Leta ya pembeni na yandi kele [[Repubilika ya Kongo]], [[Nsi ya Afrika ya Kati]], [[Sudan]], [[Uganda]], [[Rwanda]], [[Burundi]], [[Zambia]] na [[Angola]].
 
 == Politika ==
 ''[[Politika ya Kongo Demokratiki]]''
@@ -84,13 +90,12 @@ Kibuka ya bantu ya nene kele:
 *[[baluba]] 18 %
 *[[bakongo]] 16,1 %
 *[[bamongo]] 13,5 %
-*[[banyarwanda]] (hutu ye tutsi) 10,3 %
-*[[azande]] 6,1%
+*[[banyarwanda]] na [[banyamulenge]] 10,3 %
+*[[bazande]] 6,1%
 *[[babangi]] ye [[bangala]] 5,8%
 *bantu ya nkaka 30,2%
 
-
-[[Image:Congo dem demographie.png|thumb|350px|center|Évolution de la démographie entre 1961 et 2003 (chiffre de la [[Organisation des Nations Unies pour l'alimentation et l'agriculture|FAO]], 2005). Population en milliers d'habitants.]]
+[[Image:Congo dem demographie.png|thumb|350px|center|Kukula ya numelo ya bantu banda 1961 ti 2003 (na mpondo)]]
 
 == Bizunga ==
 [[Image:Provinces de la République démocratique du Congo - 2005.svg|thumb|right|300px|Bizunga 25 na Kinsasa]]
@@ -153,6 +158,13 @@ Nsi ya Kongo Demokratiki kele na bizunga makumi zole na tanu, na mbanza Kinshasa
 |-
 |26.||[[Katanga ya Minani]]||[[Lubumbashi]]||kisuahili
 |}
+
+== Bima ya kikalulu ==
+
+*[[mutako]] 
+*[[diama]]
+*[[mafuta]] ([[petolo]])
+*[[kibende]]
 
 
 [[af:Demokratiese Republiek van die Kongo]]
