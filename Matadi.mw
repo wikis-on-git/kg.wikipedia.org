@@ -1,11 +1,10 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="250px">
-<caption>'''Mbanza ya Matadi'''</caption>
-<tr><td colspan="2" align="center" style="border-bottom:3px solid gray;">[[Image:DCongoKongoCentral.png|150px|Karte ya Kongo na Matadi]]</td></tr>
-<tr><td>Mfumu ya mbanza</td><td></td></tr>
-<tr><td>Bandinga</td><td>[[kituba]], [[kikongo]]</td></tr>
-<tr><td>Supefisi</td><td><!--[[km²]]--></td></tr>
-<tr><td>Bantu</td><td>250&nbsp;000-300&nbsp;000</td></tr>
-</table>
+{{Template:Mbanza|
+|mbanza=Matadi
+|bantu=300 000
+|nsi=[[Repubilika ya Kongo Demokratiki]]
+|kizunga=[[Kongo ya Kati]]
+|ndinga=[[kituba]]
+}}
 
 '''Matadi''' kele mbanza ya mfumu ya kizunga [[Kongo ya Kati]] na [[Repubilika ya Kongo Demokratiki]].
 
