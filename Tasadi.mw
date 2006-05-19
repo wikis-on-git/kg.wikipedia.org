@@ -1,42 +1,22 @@
-{|border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px"
-<caption><font size="+1">'''جمهورية تشاد'''</br>'''République du Tchad'''</br>'''Repubilika ya Tasadi'''</font></caption>
-|-
-|align="center" colspan="2"|
-{|border="0" cellpadding="2" cellspacing="0"
-|-
-|align="center" width="140px"|[[Image:Flag of Chad.svg|125px|Dalapo ya Tasadi]]
-|align="center" width="140px">|[[Image:Chad coa.png|100px|Bidimbu ya Tasadi]]
-|-
-|([[Dalapo ya Tasadu|Dalapo]])
-|([[Bidimbu ya minsiku ya Tasadu|Bidimbu ya minsiku]])
-|}
-|-
-|align="center" colspan=2>|<font size="-1">[[Dibanza]]: ''Bumosi, kisalu, kukula''</font>
-|-
-|colspan="2" align="center" style="border-bottom:3px solid gray;"|[[Image:LocationChad.png|250px|Tasadi]]
-|-
-|Bandinga ya leta||[[kiarabi]], [[kifalanse]]
-|-
-|[[Mbanza ya mfumu]]||[[Ndjamena]]
-|-
-|[[Ntuadisi ya nsi]]||[[Idriss Déby]]
-|-
-|Supefisi<br />&nbsp;- Total<br />&nbsp;- % mayi||<br />1 284 000 [[km²]]<br />1,9 %
-|-
-|Bantu<br />&nbsp;- Kimvuka (2003)<br />&nbsp;- Densite||<br />9 826 419<br />7/km²
-|-
-|[[Kilumbu]]<br />&nbsp;- Date||na [[Falanse]]<br />11.8.[[1960]]
-|-
-|[[Mbongo]]||[[falanga ya CFA]]
-|-
-|Fuseau horaire||[[UTC]] +1
-|-
-|[[Muyimbu ya nsi]]||''[[La Tchadienne]]''
-|-
-|[[Domeni neti]]||.td
-|-
-|Indicatif téléphonique||+235
-|}
+{{Nsi|
+|nsi=Repubilika ya Tasadi <!-- '''جمهورية تشاد'''</br>'''République du Tchad''' -->
+|dalapo=Flag of Chad.svg
+|bidimbu=Chad coa.png
+|dibanza=Bumosi, kisalu, kukula
+|map=LocationChad.png
+|ndinga=[[kiarabi]], [[kifalanse]]
+|mbanza=[[Ndjamena]]
+|ntinu=[[Idriss Déby]]
+|km2=1 284 000
+|maza=1,9
+|bantu=9 826 419
+|dipanda=11.8.[[1960]]
+|mbongo=[[falanga ya CFA]]
+|ntangu=[[UTC]]+1
+|muyimbu=[[La Tchadienne]]
+|neti=.td
+|foni=+235
+}}
 
 [[Image:Chad nasa satellite.png|thumb|Satellite image of Chad]]
 
