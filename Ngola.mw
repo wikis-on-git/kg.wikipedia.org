@@ -1,44 +1,22 @@
-{|border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px"
-<caption><font size="+1">'''Angola'''</font></caption>
-|-
-| align="center" colspan="2" |
-{|border="0" cellpadding="2" cellspacing="0" style="background:#f9f9f9;"
-|-
-|align="center" width="140"|[[Image:Flag of Angola.svg|150px|Dalapo ya Angola]]
-|align="center" width="140"|[[Image:Angola coa.png|90px|Bidimbu ya minsiku ya Angola]]
-|-
-|([[Dalapo ya Angola|Dalapo]])
-|([[Bidimbu ya minsiku ya Angola|Bidimbu ya minsiku]])
-|}
-|-
-|align="center" colspan=2>|<font size="-1">[[Dibanza]]: ''Virtus Unita Fortior''</font>
-|-
-|colspan="2" align="center" style="border-bottom:3px solid gray;"|[[Image:LocationAngola.png|250px|Mapa ya Angola]]
-|-
-|Ndinga ya kisalu||[[kipurtugali]]
-|-
-|Bandinga ya bualu||
-|-
-|[[Mbanza ya mfumu]]||[[Luanda]]
-|-
-|[[Ntuadisi ya nsi]]||[[José Eduardo dos Santos]]
-|-
-|Supefisi<br />&nbsp;- Total<br />&nbsp;- % mayi||<br />1 246 700 km²<br />
-|-
-|Bantu<br />&nbsp;- Kimvuka (2003)<br />&nbsp;- Densite||<br />10 978 552<br />8,6/km²
-|-
-|[[Kilumbu]]<br />&nbsp;- Date||na [[Purtugali]]<br />11.9.[[1975]]
-|-
-|[[Mbongo]]||[[kwanza]]
-|-
-|Fuseau horaire||[[UTC]] +1 &ndash; UTC+2
-|-
-|[[Muyimbu ya nsi]]||''[[Angola Avante]]''
-|-
-|[[Domeni internet]]||.ao
-|-
-|Indicatif téléphonique||244
-|}
+{{Nsi|
+|nsi=Angola
+|dalapo=Flag of Angola.svg
+|bidimbu=Angola coa.png
+|dibanza=Virtus Unita Fortior
+|map=LocationAngola.png
+|ndinga=[[kimputulukesi]]<br /><small>[[kikongo]], [[kimbundu]], [[kitsokwe]], [[kikwanyama]]</small>
+|mbanza=[[Lwanda]]
+|ntinu=[[José Eduardo dos Santos]]
+|km2=1 246 700
+|maza=3,3
+|bantu=10 978 552
+|dipanda=11.9.[[1975]]
+|mbongo=[[kwanza]]
+|ntangu=[[UTC]]+1 &ndash; UTC+2
+|muyimbu=[[Angola Avante]]
+|neti=.ao
+|foni=+244
+}}
 
 == Bizunga ==
 [[Image:Angola Provinces numbered 300px.png|right|300px|Mapa ya bizunga ya Angola]]
