@@ -1,25 +1,11 @@
-{|border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px"
-|-
-!bgcolor=#F0F8FF colspan=2|kikongo
-|-
-|Zina kibeni||kikongo
-|-
-|Ndambu||Afrika
-|-
-|Ndinga ya leta||[[Repubilika ya Kongo Demokratiki]], [[Repubilika ya Kongo]]
-|-
-|Kiteso ya batubi||10 000 000
-|-
-!bgcolor=#F0F8FF colspan=2|Kode ya ndinga
-|-
-|[[ISO 639-1]]||kg
-|-
-|[[ISO 639-2]]||kon
-|-
-|[[ISO/DIS 639-3]]||kng - kintandu</br>kwy - kindibu</br>ktu - kituba ya Kongo-Kinsasa</br>mkw - kituba ya Kongo-Braza</br>ldi - kiladi
-|-
-|[[SIL]]||kon
-|}
+{{Ndinga|
+|ndinga=Kikongo
+|ndambu=[[Afelika ya Kati]]
+|yaleta=[[Kongo-Kinsasa]], [[Angola]]
+|batubi=10 000 000
+|bisono=Kilatini
+|ISO3=kon - kikongo<br>kng - kintandu<br>kwy - kindibu<br>ldi - kiladi
+}}
 
 [[Image:LanguageMap-Kikongo-Location.png|thumb|300px|Kikongo]]
 [[Image:LanguageMap-Kikongo-Kituba.png|thumb|300px|Bandinga ya kikongo]]
